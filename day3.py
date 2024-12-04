@@ -19,6 +19,7 @@
 #         second = int(mul.split(",")[1].split(")")[0])
 #         s += first * second
 #     print(s)
+#
 # Part 2
 import re
 
